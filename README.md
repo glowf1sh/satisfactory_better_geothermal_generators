@@ -1,4 +1,4 @@
-# Better Geothermal Generators v2 (fixed and based on Mastrmyrtr9's Mod)
+# Better Geothermal Generators v2 (fixed & based on Mastrmyrtr9's Mod)
 
 Two powerful Geothermal Generators for Satisfactory – **x10** and **x100** – delivering a rock-solid **2,000 MW** and **20,000 MW**. No more fluctuating output, no more node purity lottery: just plug in and power your factory.
 
