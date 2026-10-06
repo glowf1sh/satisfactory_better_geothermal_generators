@@ -1,4 +1,4 @@
-# Better Geothermal Generators v2 (fixed and based on Mastrymyrtr9s Mod)
+# Better Geothermal Generators v2 (fixed and based on Mastrmyrtr9's Mod)
 
 Two powerful Geothermal Generators for Satisfactory – **x10** and **x100** – delivering a rock-solid **2,000 MW** and **20,000 MW**. No more fluctuating output, no more node purity lottery: just plug in and power your factory.
 
@@ -26,3 +26,8 @@ Changes by glowf1sh (October 2026):
 ## License
 
 GNU General Public License v3.0 – see [LICENSE](LICENSE).
+
+
+---
+### Brought to you by Glowfish
+Need a home for your website, project or next game night? **[Glowfish](https://www.glowfish.de)** has you covered – web hosting, vServers and game servers for Minecraft, Factorio, Valheim and more. Up and running in minutes, switch games anytime for free.
