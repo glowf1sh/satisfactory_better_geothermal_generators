@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"FriendlyName": "Better Geothermal Generators v2",
+	"Description": "Geothermal Generators x10 & x100 with constant 2,000 MW and 20,000 MW output, independent of node purity. Updated for Satisfactory 1.2.",
+	"Category": "Modding",
+	"CreatedBy": "glowf1sh (based on work by Mastrmyrtr9)",
+	"CreatedByURL": "https://github.com/glowf1sh/satisfactory_better_geothermal_generators",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/glowf1sh/satisfactory_better_geothermal_generators/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "2.0.0",
+	"GameVersion": ">=502094"
+}
